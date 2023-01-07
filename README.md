@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-using-various-ML-algorithms
 
-![ai-heart](https://user-images.githubusercontent.com/105945382/211143613-1b99156c-ede7-41f2-ac68-62bd8be40022.jpg)
+![0*DAIwT7v6R8oQbJfu](https://user-images.githubusercontent.com/105945382/211144007-c43bcfb4-1c55-443d-bdcd-5b95761fe972.jpeg)
 
 ## Using heart disease patient data set to detect potential heart disease and warn the user of any future heart failures.
 
