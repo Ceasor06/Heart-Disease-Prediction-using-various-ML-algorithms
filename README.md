@@ -5,6 +5,7 @@ Nowadays, during this ongoing pandemic, patients face a situation of unanticipat
 
 **Size of the dataset contains 304 rows with 13 attributes.**
 
+
 **Following are the attributes of our dataset:**
 
 - Age 
