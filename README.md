@@ -1,7 +1,11 @@
 # Heart-Disease-Prediction-using-various-ML-algorithms
+
+![ai-heart](https://user-images.githubusercontent.com/105945382/211143613-1b99156c-ede7-41f2-ac68-62bd8be40022.jpg)
+
 ## Using heart disease patient data set to detect potential heart disease and warn the user of any future heart failures.
 
-Nowadays, during this ongoing pandemic, patients face a situation of unanticipated demise due to specific heart diseases that are either left undiagnosed or too late to get detected. Early diagnosis of heart diseases is very important for the patient's life, as it is one of the crucial impacts of mortality in our country. In clinical data analysis, predicting cardiovascular disease is a primary challenge. Therefore, we propose a project to avoid these sudden deaths that uses 
+
+Nowadays, during this ongoing pandemic, patients face a situation of unanticipated demise due to specific heart diseases that are either left undiagnosed or too late to get detected. Early diagnosis of heart diseases is very important for the patient's life, as it is one of the crucial impacts of mortality in our country. In clinical data analysis, predicting cardiovascular disease is a primary challenge. Therefore, we propose a project to avoid these sudden deaths that uses a patients dataset to train different ML and DL models and later can predict the potential heart diseases.
 
 **Size of the dataset contains 304 rows with 13 attributes.**
 
@@ -27,9 +31,13 @@ Nowadays, during this ongoing pandemic, patients face a situation of unanticipat
 
 
 1. K-NEAREST NEIGHBOURS
+
 2. LOGISTIC REGRESSION 
+
 3. RANDOM FOREST 
+
 4. ARTIFICIAL NEURAL NETWORK using 2 hidden layer
+
 5. SUPPORT VECTOR MACHINE 
 
 
